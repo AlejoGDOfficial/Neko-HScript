@@ -1,4 +1,0 @@
-function onCreate()
-{
-    switchToScriptState('initialState');
-}
