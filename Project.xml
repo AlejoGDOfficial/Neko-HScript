@@ -25,7 +25,7 @@
 
 	<set name="BUILD_DIR" value="export" />
 	<source path="source" />
-	<assets path="assets" />
+	<assets path="mods" />
 
 	<!-- _______________________________ Libraries ______________________________ -->
 
@@ -36,8 +36,6 @@
 	<haxelib name="hscript-iris" />
 
 	<!-- ______________________________ Haxedefines _____________________________ -->
-
-	<haxedef name="FLX_NO_HEALTH" />
 
 	<haxedef name="FLX_NO_MOUSE" if="mobile" />
 	<haxedef name="FLX_NO_KEYBOARD" if="mobile" />
