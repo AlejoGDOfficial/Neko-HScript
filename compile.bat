@@ -1,7 +1,7 @@
 @echo off
 color 0b
 
-title Compile the Neko SScript Source Code
+title Compile the Neko HScript Source Code
 
 echo Compiling...
 
